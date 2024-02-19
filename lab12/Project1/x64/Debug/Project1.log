@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Мої документи\навчання\2 курс\1 сем\АСД\lab 12\Project1\Source.cpp(6,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Мої документи\навчання\2 курс\1 сем\АСД\lab 12\Project1\Source.cpp(14,20): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+D:\Мої документи\навчання\2 курс\1 сем\АСД\lab 12\Project1\Source.cpp(19,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Мої документи\навчання\2 курс\1 сем\АСД\lab 12\Project1\Source.cpp(20,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Project1.vcxproj -> D:\Мої документи\навчання\2 курс\1 сем\АСД\lab 12\Project1\x64\Debug\Project1.exe
